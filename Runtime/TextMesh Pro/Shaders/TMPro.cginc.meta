@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 58e68d306af5ef4499c96b8d72c389db
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  nonModifiableTextures: []
+  userData: Version 2.0
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 214794
+  packageName: Responsive Keyboard - Mobile Games (Customisable)
+  packageVersion: 1.0
+  assetPath: Assets/TextMesh Pro/Shaders/TMPro.cginc
+  uploadId: 484337

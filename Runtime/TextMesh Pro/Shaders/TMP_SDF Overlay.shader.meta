@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: c41063949134b2749a09123ed03a220b
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  nonModifiableTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 214794
+  packageName: Responsive Keyboard - Mobile Games (Customisable)
+  packageVersion: 1.0
+  assetPath: Assets/TextMesh Pro/Shaders/TMP_SDF Overlay.shader
+  uploadId: 484337
